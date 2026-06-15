@@ -27,7 +27,7 @@ Most of my projects start with a simple thought:
 | Project | Description | Stack | Status |
 |---|---|---|---|
 | [Devnote](https://devnote-five.vercel.app/dashboard) | Code knowledge base with team workspaces & VS Code extension | Next.js · Prisma · PostgreSQL | 🟡 Active |
-| Devmap | CLI tool for AI-powered codebase analysis & onboarding | TypeScript · ts-morph · Node CLI | 🔨 Building |
+| Devmap | CLI tool to understand any codebase — for developers and AI agents | TypeScript · ts-morph · Node CLI | 🔨 Building |
 | [Chatme](https://chatme.jet.vercel.app) | Chat-based notes & reminders app — replaced my WhatsApp self-texting habit | Next.js · PostgreSQL · Typescript | ✅ Live |
 | [Dailyfit](https://dailyfit-alpha.vercel.app) | Personal workout tracker with structured plans & progress tracking | Next.js · PostgreSQL · Recharts | ✅ Live |
 | [Mufadz Portal](https://mufadz-app.vercel.app) | Islamic utility app — Quran reader, prayer schedules, AI chatbot | React · Express · MySql | ✅ Live |
@@ -78,7 +78,7 @@ Most of my projects start with a simple thought:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-mu-livid-13.vercel.app/api/top-langs/?username=itsflaid&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsflaid&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
