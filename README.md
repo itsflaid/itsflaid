@@ -26,7 +26,7 @@ Most of my projects start with a simple thought:
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
-| [Devnote](https://devnote-five.vercel.app/dashboard) | Code knowledge base with team workspaces & VS Code extension | Next.js · Prisma · PostgreSQL | 🟡 Active |
+| [Devnote](https://devnote-five.vercel.app/dashboard) | Code knowledge base with team workspaces & VS Code extension | Next.js · PostgreSQL · VS Code Extension| 🔨Building |
 | Devmap | CLI tool to understand any codebase — for developers and AI agents | TypeScript · ts-morph · Node CLI | 🔨 Building |
 | [Chatme](https://chatme.jet.vercel.app) | Chat-based notes & reminders app — replaced my WhatsApp self-texting habit | Next.js · PostgreSQL · Typescript | ✅ Live |
 | [Dailyfit](https://dailyfit-alpha.vercel.app) | Personal workout tracker with structured plans & progress tracking | Next.js · PostgreSQL · Recharts | ✅ Live |
