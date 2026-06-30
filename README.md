@@ -78,7 +78,7 @@ Most of my projects start with a simple thought:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsflaid&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-two-swart-14.vercel.app/api/top-langs/?username=itsflaid&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
