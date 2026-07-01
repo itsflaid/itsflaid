@@ -74,7 +74,7 @@ Most of my projects start with a simple thought:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-mu-livid-13.vercel.app/api?username=itsflaid&include_all_commits=false&count_private=false&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-two-swart-14.vercel.app/api?username=itsflaid&include_all_commits=false&count_private=false&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
