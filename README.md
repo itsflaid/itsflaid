@@ -28,7 +28,7 @@ Most of my projects start with a simple thought:
 |---|---|---|---|
 | DevMap | Codebase context engine for AI agents and developers | Commander.js · ts-morph · Node | 🔨 Building |
 | [Devnote](https://devnote-five.vercel.app/dashboard) | Code knowledge base with team workspaces & VS Code extension | T3 Stack · PostgreSQL · VS Code Extension| 🔨Building |
-| [Chatme](https://chatme.jet.vercel.app) | Chat-based notes & reminders app — replaced my WhatsApp self-texting habit | T3 Stack · PostgreSQL · Google Oauth | ✅ Live |
+| [Chatme](https://chatme.jet.vercel.app) | Chat-based notes & reminders app — replaced my WhatsApp self-texting habit | T3 Stack · PostgreSQL · Upstash | ✅ Live |
 | [Dailyfit](https://dailyfit-alpha.vercel.app) | Personal workout tracker with structured plans & progress tracking | T3 Stack · PostgreSQL · Recharts | ✅ Live |
 | [De Home Spa](https://dehomespav2-uwxp.vercel.app) | Home spa booking with AI treatment recommendations — built in a hackathon | Next · Groq · Fonnte | ✅ Live |
 | [Mufadz Portal](https://mufadz-app.vercel.app) | Islamic utility app — Quran reader, prayer schedules, AI chatbot | React · Express · MySql | ✅ Live |
