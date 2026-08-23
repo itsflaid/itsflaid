@@ -31,27 +31,15 @@ Most of my projects start with a simple thought:
 | [Chatme](https://chatme.jet.vercel.app) | Chat-based notes & reminders app — replaced my WhatsApp self-texting habit | T3 Stack · PostgreSQL · Upstash | ✅ Live |
 | [Dailyfit](https://dailyfit-alpha.vercel.app) | Personal workout tracker with structured plans & progress tracking | T3 Stack · PostgreSQL · Recharts | ✅ Live |
 | [De Home Spa](https://dehomespav2-uwxp.vercel.app) | Home spa booking with AI treatment recommendations — built in a hackathon | Next · Groq · Fonnte | ✅ Live |
-| [Mufadz Portal](https://mufadz-app.vercel.app) | Islamic utility app — Quran reader, prayer schedules, AI chatbot | React · Express · MySql | ✅ Live |
-| [Mynime](https://mynime.vercel.app) | Personal anime tracker — log watched anime with ratings, notes & rewatch history | Vue · Supabase · Jikan API| ✅ Live |
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Main Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,tailwind,nodejs,express,laravel,postgres,mysql,supabase,prisma,git,vercel,figma,vscode&perline=10" />
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,express,postgres,prisma&perline=10" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="28"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" height="28"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" height="28"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white" height="28"/>
-</p>
----
 
 ## 🌱 Currently Learning
 
