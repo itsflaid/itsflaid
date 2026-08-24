@@ -70,7 +70,7 @@ Most of my projects start with a simple thought:
 ---
 
 <p align="center">
-  <a href="https://itsflaid.my.id">🌐 Portfolio</a>
+  <a href="https://flaid.my.id">🌐 Portfolio</a>
 </p>
 
 <p align="center">
