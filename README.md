@@ -5,14 +5,14 @@
 </h1>
 
 <p align="center">
-  Full-Stack Developer · Product Builder · IS Student
+  Full-Stack Developer · IS Student
 </p>
 
 ---
 
 ## ✨ About Me
 
-Information Systems student from East Kalimantan, Indonesia — self-taught since September 2024, building products that solve problems I personally experience, from daily utility apps to developer tools and AI-powered applications.
+Information Systems student from East Kalimantan, Indonesia, self-taught since late 2024, building products that solve problems I personally experience, from daily utility apps to developer tools and AI-powered applications.
 
 Most of my projects start with a simple thought:
 
@@ -26,11 +26,10 @@ Most of my projects start with a simple thought:
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
-| DevMap | Codebase context engine for AI agents and developers | Commander.js · ts-morph · Node | 🔨 Building |
-| [Devnote](https://devnote-five.vercel.app/dashboard) | Code knowledge base with team workspaces & VS Code extension | T3 Stack · PostgreSQL · VS Code Extension| 🔨Building |
-| [Chatme](https://chatme.jet.vercel.app) | Chat-based notes & reminders app — replaced my WhatsApp self-texting habit | T3 Stack · PostgreSQL · Upstash | ✅ Live |
-| [Dailyfit](https://dailyfit-alpha.vercel.app) | Personal workout tracker with structured plans & progress tracking | T3 Stack · PostgreSQL · Recharts | ✅ Live |
-| [De Home Spa](https://dehomespav2-uwxp.vercel.app) | Home spa booking with AI treatment recommendations — built in a hackathon | Next · Groq · Fonnte | ✅ Live |
+| DevMap | Codebase context layer for AI agents and developers | Commander.js · ts-morph · Node | MVP |
+| [Devnote](https://devnote-five.vercel.app/dashboard) | Code knowledge base with team workspaces & VS Code extension | T3 Stack · PostgreSQL · Codemirror| MVP |
+| [Chatme](https://chatme.jet.vercel.app) | Chat-based notes & reminders app, replaced my WhatsApp self-texting habit | T3 Stack · PostgreSQL · Upstash | Live |
+| [Dailyfit](https://dailyfit-alpha.vercel.app) | Personal workout tracker with structured plans & progress tracking | T3 Stack · PostgreSQL · Recharts | Live |
 
 ---
 
@@ -43,9 +42,8 @@ Most of my projects start with a simple thought:
 
 ## 🌱 Currently Learning
 
-- AI Integration & LLM Applications
 - CLI Tool Development
-- Product Engineering
+- Fullstack Engineering
 
 ---
 
@@ -72,7 +70,7 @@ Most of my projects start with a simple thought:
 ---
 
 <p align="center">
-  <a href="https://portofolio-eta-beryl.vercel.app/">🌐 Portfolio</a>
+  <a href="https://itsflaid.my.id">🌐 Portfolio</a>
 </p>
 
 <p align="center">
