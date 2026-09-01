@@ -26,7 +26,7 @@ Most of my projects start with a simple thought:
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
-| DevMap | Codebase context layer for AI agents and developers | Commander.js · ts-morph · Node | MVP |
+| DevMap | Codebase context layer for AI agents and developers | Commander.js · ts-morph · Node | v.0.3.x |
 | [Devnote](https://devnote-five.vercel.app/dashboard) | Code knowledge base with team workspaces & VS Code extension | T3 Stack · PostgreSQL · Codemirror| MVP |
 | [Chatme](https://chatme.jet.vercel.app) | Chat-based notes & reminders app, replaced my WhatsApp self-texting habit | T3 Stack · PostgreSQL · Upstash | Live |
 | [Dailyfit](https://dailyfit-alpha.vercel.app) | Personal workout tracker with structured plans & progress tracking | T3 Stack · PostgreSQL · Recharts | Live |
@@ -49,8 +49,6 @@ Most of my projects start with a simple thought:
 
 ## 🎯 Goals
 
-- Build useful software that's used by people around the world.
-- Create an open-source ecosystem of tools developers genuinely enjoy using.
 - Achieve financial freedom.
 - Slow life in a small village.
 - Become a penghuni surga.
